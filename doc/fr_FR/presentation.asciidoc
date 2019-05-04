@@ -1,0 +1,7 @@
+=== H801, controlleur RGBWW WiFi
+
+Plugin permettant d'utiliser des controlleurs WiFi pour piloter des bandeaux RGBWW
+
+Pour se procurer le controlleur H801 :
+
+ * http://s.click.aliexpress.com/e/6ayrRfYNn[Controleur H801]

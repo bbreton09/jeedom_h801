@@ -1,0 +1,48 @@
+{
+    "plugins\/h801\/desktop\/php\/h801.php": {
+        "Ajouter un équipement": "Ajouter un équipement",
+        "Rechercher": "Rechercher",
+        "Mes bandeaux h801": "Mes bandeaux h801",
+        "Général": "Général",
+        "Ampoule h801": "Ampoule h801",
+        "Nom de l'équipement h801": "Nom de l'équipement h801",
+        "Objet parent": "Objet parent",
+        "Aucun": "Aucun",
+        "Catégorie": "Catégorie",
+        "Activer": "Activer",
+        "Visible": "Visible",
+        "Commentaire": "Commentaire",
+        "Configuration": "Configuration",
+        "Adresse h801": "Adresse h801",
+        "Mode Gestion": "Mode Gestion",
+        "RGBWW": "RGBWW",
+        "5 dimmers": "5 dimmers",
+        "Commandes h801": "Commandes h801",
+        "Nom": "Nom",
+        "Type": "Type",
+        "Valeur": "Valeur",
+        "Options": "Options",
+        "Supprimer": "Supprimer",
+        "Sauvegarder": "Sauvegarder",
+        "Configuration avancée": "Configuration avancée",
+        "Equipement": "Equipement",
+        "Commandes": "Commandes"
+    },
+    "plugins\/h801\/desktop\/js\/h801.js": {
+        "Afficher": "Afficher",
+        "Tester": "Tester"
+    },
+    "plugins\/h801\/core\/class\/h801.class.php": {
+        "Etat Blanc 1": "Etat Blanc 1",
+        "Etat Blanc 2": "Etat Blanc 2",
+        "Blanc 1": "Blanc 1",
+        "Blanc 2": "Blanc 2",
+        "Complet": "Complet",
+        "Etat Blanc 3": "Etat Blanc 3",
+        "Etat Blanc 4": "Etat Blanc 4",
+        "Etat Blanc 5": "Etat Blanc 5",
+        "Blanc 3": "Blanc 3",
+        "Blanc 4": "Blanc 4",
+        "Blanc 5": "Blanc 5"
+    }
+}

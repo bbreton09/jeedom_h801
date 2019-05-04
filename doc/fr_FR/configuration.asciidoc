@@ -1,0 +1,7 @@
+=== Configuration du plugin
+
+Il n'y a pas de page de configuration générale.
+
+En créant un équipement, il faut rentrer l'adresse du controleur.
+
+A partir de là on les commande RGB et les 2 blancs. Une commande complémentaire sert à passer le code RGBWW directement.

@@ -1,0 +1,5 @@
+[panel,danger]
+.Comment trouver l'adresse de mon controlleur RGBWW ?
+--
+Il faut voir sur le routeur quelle adresse lui a été attribuer et en profiter pour la définir en IP fixe.
+--

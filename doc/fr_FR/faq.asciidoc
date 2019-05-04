@@ -1,0 +1,37 @@
+[panel,primary]
+.Est-ce que le plugin s'appuie sur des API tiers ?
+--
+Le plugin utilise une connexion wifi pour lancer les commandes, le controleur H801 est cloudless.
+--
+
+[panel,primary]
+.Quels sont les effets disponibles ?
+--
+00 Staticstate
+
+01 Full color
+
+02 Monochrome shade
+
+03 Monochrome fade
+
+04 Monochrome light
+
+05 Mixedcolor shade
+
+06 Mixedcolor fade
+
+07 Mixedcolor light
+
+08 Red fade
+
+09 Green fade
+
+0a Blue fade
+
+0b Monochrome transition
+
+0c Mixedcolor transition
+
+0d Seven color transition
+--
